@@ -13,5 +13,6 @@
 
 <h2>좋아하는 음식</h2>
 <p>제가 가장 좋아하는 음식은 초밥이며 그 다음은 치킨입니다.</p>
-![sushi-1958247_1280](https://user-images.githubusercontent.com/50670389/92564498-38406200-f2b4-11ea-9c88-a5b593cf7b9b.jpg)
+[id]:https://user-images.githubusercontent.com/50670389/92564498-38406200-f2b4-11ea-9c88-a5b593cf7b9b.jpg
+
 
